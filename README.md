@@ -11,7 +11,7 @@ git clone https://github.com/Aniket2002S/CustomizedVirtualFileSystem
 cd marvellous-vfs
 gcc vfs.c -o vfs
 ./vfs
-
+```
 Project Structure
 vfs.c: Main source code file containing the implementation of the VFS.
 ...
