@@ -1,8 +1,4 @@
 
-Certainly! Here's a complete README file for your Virtual File System (VFS) project:
-
-markdown
-Copy code
 # Virtual File System (VFS)
 
 The Virtual File System (VFS) is a simple file system implementation written in C. It provides basic file operations such as creating, opening, reading, writing, and deleting files.
